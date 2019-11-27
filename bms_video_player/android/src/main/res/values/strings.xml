@@ -1,0 +1,9 @@
+<resources>
+    <string name="selection">Choose</string>
+    <string name="loading">Loading...</string>
+    <string name="error_player">Unknown playback error, please try again</string>
+    <string name="retry">Retry</string>
+    <string name="empty_text">No data</string>
+    <string name="video_text">K Views</string>
+    <string name="video_texts">M Views</string>
+</resources>
